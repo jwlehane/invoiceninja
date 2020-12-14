@@ -71,7 +71,7 @@ To filter the Payments list, enter the filter data in the Filter field, situated
 Enter Payment
 """""""""""""
 
-Once you’ve received payment, you’ll need to enter the payment toon the Invoice Ninja system. If your client paid via one of Invoice Ninja’s 45+ payment partners, the system will automatically record the payment and send a downloadable PDF receipt to the client’s email address. If you were paid via cash, check, bank transfer, credit card, credit or any other payment method not automatically linked to the Invoice Ninja system, you will be required to manually enter the payment. The procedure of entering a payment manually is simple and lightning fast. Now, we’ll take you through the payment entry process, step by step.
+Once you’ve received payment, you’ll need to enter the payment into the Invoice Ninja system. If your client paid via one of Invoice Ninja’s 45+ payment partners, the system will automatically record the payment and send a downloadable PDF receipt to the client’s email address. If you were paid via cash, check, bank transfer, credit card, credit or any other payment method not automatically linked to the Invoice Ninja system, you will be required to manually enter the payment. The procedure of entering a payment manually is simple and lightning fast. Now, we’ll take you through the payment entry process, step by step.
 
 **Let’s Begin**
 
